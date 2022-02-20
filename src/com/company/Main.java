@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Say hello");
-        System.out.println("Ljupco 2");
+        System.out.println("Ljupco ");
 
 
 
